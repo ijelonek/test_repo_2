@@ -1,1 +1,2 @@
 Flask==0.7.1
+git+git://github.com/ijelonek/test_repo_1@0.0.1
