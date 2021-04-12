@@ -4,5 +4,12 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "09:57"
+      time: "10:05"
+      timezone: "Europe/London"
+
+  - package-ecosystem: "git"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "10:05"
       timezone: "Europe/London"
