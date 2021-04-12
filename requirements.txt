@@ -1,2 +1,2 @@
 Flask==1.1.2
-git+git://github.com/ijelonek/test_repo_1@v0.0.1
+git+https://github.com/ijelonek/test_repo_1.git@v0.0.1
