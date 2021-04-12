@@ -7,7 +7,7 @@ updates:
       time: "10:05"
       timezone: "Europe/London"
 
-  - package-ecosystem: "git"
+  - package-ecosystem: "gitsubmodule"
     directory: "/"
     schedule:
       interval: "daily"
