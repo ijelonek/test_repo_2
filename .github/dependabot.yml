@@ -1,8 +1,8 @@
 version: 2
-update:
+updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
-      time: "09:39"
+      time: "09:45"
       timezone: "Europe/London"
