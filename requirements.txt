@@ -1,2 +1,2 @@
-Flask==1.1.2
+Flask==2.0.2
 git+https://github.com/ijelonek/test_repo_1.git@v0.0.1
